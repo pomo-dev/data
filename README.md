@@ -19,5 +19,6 @@ exact citation will follow.  For now, please refer to
   from the genome browser.
 - `hg18-filtered.msa.gz`: Same as above but filtered.
 - `hg18-all.cf.gz`: Counts file including the population data;
-  information of VCF files is included
-  (cf. [`libPoMo`](https://github.com/pomo-dev/PoMo)).
+  information of VCF files is included (please see the supplemental
+  material at [BioRxiv](http://dx.doi.org/10.1101/016360) and
+  [`libPoMo`](https://github.com/pomo-dev/PoMo)).
