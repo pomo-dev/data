@@ -12,7 +12,8 @@ no. 7459 (July 25, 2013): 471–75. doi:10.1038/nature12228.
 
 This folder includes data from our study of PoMo with tree inference
 on great apes.  The study has been accepted at Systematic Biology, an
-exact citation will follow.  For now, please refer to BioRxiv.
+exact citation will follow.  For now, please refer to
+[BioRxiv](http://dx.doi.org/10.1101/016360).
 
 - `hg18.msa.gz`: Contains the multiple sequence alignment; downloaded
   from the genome browser.
